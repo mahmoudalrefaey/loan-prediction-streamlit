@@ -82,4 +82,3 @@ To run LoanWise locally:
 For any questions or support, please contact:  
 Email: [Email me](mailto:dev.mahmoudrefaey@gmail.com)  
 LinkedIn: [LinkedIn](www.linkedin.com/in/mahmoudmalrefaey)
-```
