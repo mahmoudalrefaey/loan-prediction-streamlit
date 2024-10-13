@@ -2,7 +2,6 @@ import streamlit as st
 from sklearn.preprocessing import LabelEncoder
 import pickle
 import pandas as pd
-import plotly.graph_objects as go
 import numpy as np
 
 
